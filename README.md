@@ -1,4 +1,4 @@
-# 🚗 Basic ML Syntax Practice: Car Price Prediction
+# Basic ML Syntax Practice: Car Price Prediction
 
 ## Overview
 This repository contains a simple practice notebook to understand the basic workflow of machine learning using Python. It serves as a syntax exercise rather than a full predictive project.
